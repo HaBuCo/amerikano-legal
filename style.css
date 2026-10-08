@@ -51,4 +51,4 @@ th { color: var(--muted); font-weight: 800; }
   .tabs { margin-bottom: 32px; }
   .grid, .platform-grid { grid-template-columns: 1fr; }
   .hero, .card, .notice { padding: 19px; }
-}
+}.top .lang { color: var(--accent); font-weight: 800; text-decoration: none; }
